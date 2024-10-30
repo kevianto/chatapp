@@ -1,9 +1,10 @@
 import React from 'react'
+import Button from '../Components/common/Button'
 
 function home() {
   return (
     <div>
-        <h1>Hello </h1>
+        <Button title="cancel" color="red"/>
     </div>
   )
 }
