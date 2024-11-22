@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from '../Components/common/Button'
-
+//main home page
 function home() {
   return (
     <div>
